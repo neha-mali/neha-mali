@@ -2,6 +2,7 @@ Hi, I'm Neha 👋
 
 SDET with 3 years of experience at Visa testing high-volume payment systems. Now building AI-powered testing tools.
 
+
 🤖 What I'm Building
 
 - **AI Powered QA Agent** — Give it a URL, it tests the entire website automatically using Playwright and Claude API
@@ -21,8 +22,10 @@ Claude API · Python · SQL · Pandas · Tableau · Power BI
 Playwright · FastAPI · Agent-based testing
 
 
+
 📂 Featured Projects
 👉 [github.com/neha-mali](https://github.com/neha-mali)
+
 
 
 📫 Let's Connect
