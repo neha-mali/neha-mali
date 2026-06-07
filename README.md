@@ -22,11 +22,5 @@ Claude API · Python · SQL · Pandas · Tableau · Power BI
 Playwright · FastAPI · Agent-based testing
 
 
-
-📂 Featured Projects
-👉 [github.com/neha-mali](https://github.com/neha-mali)
-
-
-
 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/neha-mali)
