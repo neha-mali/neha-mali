@@ -8,12 +8,12 @@ SDET with 3 years of experience at Visa testing high-volume payment systems. Now
 **Testing & Automation**
 Java · RestAssured · TestNG · Selenium · Allure · GitHub Actions
 
-**AI & Data**
-Claude API · Python · SQL · Pandas · Tableau · Power BI
+**Data Analytics**
+· Python · SQL · Pandas · Tableau · Power BI
 
+**AI**
+Claude API · Playwright MCP
 
-🌱 Currently Learning
-Playwright · FastAPI · Agent-based testing
 
 
 📫 Let's Connect
