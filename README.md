@@ -1,6 +1,6 @@
 Hi, I'm Neha 👋 
 
-SDET with 3 years of experience at Visa testing high-volume payment systems. Now building AI-powered testing tools.
+SDET with 3 years of experience at Visa building automation frameworks for high-volume payment systems. Passionate about Data Analytics, Python, SQL, and AI-powered automation.
 
 ## 🌐 Portfolio Data Analytics
 
