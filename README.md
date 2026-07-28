@@ -2,6 +2,10 @@ Hi, I'm Neha 👋
 
 SDET with 3 years of experience at Visa testing high-volume payment systems. Now building AI-powered testing tools.
 
+## 🌐 Portfolio
+
+🔗 **Portfolio:** https://neha-mali-portfolio.lovable.app/
+
 
 🔧 Tech Stack
 
