@@ -17,7 +17,7 @@ Claude API · Playwright MCP
 ## 📊 Data Analytics Projects
 
 - [Payment Fraud Analytics](https://github.com/neha-mali/payment-fraud-analytics)
-- [Student AI Adoption Analytics](https://github.com/neha-mali/student-ai-adoption-analytics)
+- [Student AI Adoption Analytics](https://github.com/neha-mali/-student-ai-adoption-analytics)
 - [Airbnb Dallas Market Analysis](https://github.com/neha-mali/airbnb-dallas-market-analysis)
 
 ---
