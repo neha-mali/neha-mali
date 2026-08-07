@@ -2,7 +2,7 @@ Hi, I'm Neha 👋
 
 SDET with 3 years of experience at Visa building automation frameworks for high-volume payment systems. Passionate about Data Analytics, Python, SQL, and AI-powered automation.
 
-## 🌐 Portfolio Data Analytics
+## 🌐 Data Analytics Portfolio
 
 🔗 **Portfolio:** https://neha-mali-portfolio.lovable.app/
 
