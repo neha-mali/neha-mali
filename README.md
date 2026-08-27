@@ -4,7 +4,7 @@ SDET with 3 years of experience at Visa building automation frameworks for high-
 
 ## 🌐 Data Analytics Portfolio
 
-🔗 **Portfolio:** https://neha-mali-portfolio.lovable.app/
+🔗 **Portfolio:** https://data.nehamali.com/
 
 
 🔧 Tech Stack
