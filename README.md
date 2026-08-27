@@ -28,8 +28,8 @@ Claude API · Playwright MCP
 
 ## 🤖 SDET & Automation Projects
 
-- [AI Self-Healing Test Framework](https://github.com/neha-mali/ai-self-healing-test-framework)
-- [AI Test Framework](https://github.com/neha-mali/ai-test-framework)
+- [AI Self-Healing Test UI Framework](https://github.com/neha-mali/ai-self-healing-test-framework)
+- [AI Test API Framework](https://github.com/neha-mali/ai-test-framework)
 
 
 
